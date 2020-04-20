@@ -3,11 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="dataDriveTest.DataDrivenTest_POI">
+      <class name="com.RestAssured.SDET.TestCase.TC001_Get_All_Employees">
         <methods>
-          <include name="addPostNewEmpoyee" invocation-numbers="8"/>
+          <include name="setup"/>
+          <include name="getAllEmployees"/>
+          <include name="checkResponseTime"/>
         </methods>
-      </class> <!-- dataDriveTest.DataDrivenTest_POI -->
+      </class> <!-- com.RestAssured.SDET.TestCase.TC001_Get_All_Employees -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

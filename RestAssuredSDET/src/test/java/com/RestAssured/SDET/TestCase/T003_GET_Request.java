@@ -1,4 +1,4 @@
-package com.RestAssured.SDET;
+package com.RestAssured.SDET.TestCase;
 
 import org.hamcrest.core.Is;
 import org.testng.Assert;

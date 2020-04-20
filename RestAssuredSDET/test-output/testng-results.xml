@@ -1,202 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-04-01T01:51:59 EDT" name="Default suite" finished-at="2020-04-01T01:52:06 EDT" duration-ms="6362">
+  <suite started-at="2020-04-20T00:31:32 EDT" name="Default suite" finished-at="2020-04-20T00:31:42 EDT" duration-ms="10068">
     <groups>
     </groups>
-    <test started-at="2020-04-01T01:51:59 EDT" name="Default test" finished-at="2020-04-01T01:52:06 EDT" duration-ms="6362">
-      <class name="dataDriveTest.DataDrivenTest_POI">
-        <test-method signature="addPostNewEmpoyee(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:dataDriveTest.DataDrivenTest_POI@6aaceffd]" started-at="2020-04-01T01:52:00 EDT" name="addPostNewEmpoyee" data-provider="empDataProvider" finished-at="2020-04-01T01:52:01 EDT" duration-ms="1431" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[AKMAL360]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[60000]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[18]]>
-              </value>
-            </param>
-          </params>
+    <test started-at="2020-04-20T00:31:32 EDT" name="Default test" finished-at="2020-04-20T00:31:42 EDT" duration-ms="10068">
+      <class name="com.RestAssured.SDET.TestCase.TC001_Get_All_Employees">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.RestAssured.SDET.TestCase.TC001_Get_All_Employees@68267da0]" started-at="2020-04-20T00:31:32 EDT" name="setup" finished-at="2020-04-20T00:31:32 EDT" duration-ms="81" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- addPostNewEmpoyee -->
-        <test-method signature="addPostNewEmpoyee(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:dataDriveTest.DataDrivenTest_POI@6aaceffd]" started-at="2020-04-01T01:52:01 EDT" name="addPostNewEmpoyee" data-provider="empDataProvider" finished-at="2020-04-01T01:52:02 EDT" duration-ms="530" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[AKMAL361]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[60001]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[19]]>
-              </value>
-            </param>
-          </params>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="getAllEmployees()[pri:0, instance:com.RestAssured.SDET.TestCase.TC001_Get_All_Employees@68267da0]" started-at="2020-04-20T00:31:32 EDT" name="getAllEmployees" finished-at="2020-04-20T00:31:42 EDT" duration-ms="9918" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- addPostNewEmpoyee -->
-        <test-method signature="addPostNewEmpoyee(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:dataDriveTest.DataDrivenTest_POI@6aaceffd]" started-at="2020-04-01T01:52:02 EDT" name="addPostNewEmpoyee" data-provider="empDataProvider" finished-at="2020-04-01T01:52:02 EDT" duration-ms="445" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[AKMAL362]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[60002]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[20]]>
-              </value>
-            </param>
-          </params>
+        </test-method> <!-- getAllEmployees -->
+        <test-method signature="checkContaintType()[pri:0, instance:com.RestAssured.SDET.TestCase.TC001_Get_All_Employees@68267da0]" started-at="2020-04-20T00:31:42 EDT" name="checkContaintType" finished-at="2020-04-20T00:31:42 EDT" duration-ms="6" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- addPostNewEmpoyee -->
-        <test-method signature="addPostNewEmpoyee(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:dataDriveTest.DataDrivenTest_POI@6aaceffd]" started-at="2020-04-01T01:52:02 EDT" name="addPostNewEmpoyee" data-provider="empDataProvider" finished-at="2020-04-01T01:52:03 EDT" duration-ms="578" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[AKMAL363]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[60003]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[21]]>
-              </value>
-            </param>
-          </params>
+        </test-method> <!-- checkContaintType -->
+        <test-method signature="checkContentLength()[pri:0, instance:com.RestAssured.SDET.TestCase.TC001_Get_All_Employees@68267da0]" started-at="2020-04-20T00:31:42 EDT" name="checkContentLength" finished-at="2020-04-20T00:31:42 EDT" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- addPostNewEmpoyee -->
-        <test-method signature="addPostNewEmpoyee(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:dataDriveTest.DataDrivenTest_POI@6aaceffd]" started-at="2020-04-01T01:52:03 EDT" name="addPostNewEmpoyee" data-provider="empDataProvider" finished-at="2020-04-01T01:52:04 EDT" duration-ms="509" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[AKMAL364]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[60004]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[22]]>
-              </value>
-            </param>
-          </params>
+        </test-method> <!-- checkContentLength -->
+        <test-method signature="checkResponseBody()[pri:0, instance:com.RestAssured.SDET.TestCase.TC001_Get_All_Employees@68267da0]" started-at="2020-04-20T00:31:42 EDT" name="checkResponseBody" finished-at="2020-04-20T00:31:42 EDT" duration-ms="20" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- addPostNewEmpoyee -->
-        <test-method signature="addPostNewEmpoyee(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:dataDriveTest.DataDrivenTest_POI@6aaceffd]" started-at="2020-04-01T01:52:04 EDT" name="addPostNewEmpoyee" data-provider="empDataProvider" finished-at="2020-04-01T01:52:04 EDT" duration-ms="511" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[AKMAL365]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[60005]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[23]]>
-              </value>
-            </param>
-          </params>
+        </test-method> <!-- checkResponseBody -->
+        <test-method signature="checkResponseTime()[pri:0, instance:com.RestAssured.SDET.TestCase.TC001_Get_All_Employees@68267da0]" started-at="2020-04-20T00:31:42 EDT" name="checkResponseTime" finished-at="2020-04-20T00:31:42 EDT" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- addPostNewEmpoyee -->
-        <test-method signature="addPostNewEmpoyee(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:dataDriveTest.DataDrivenTest_POI@6aaceffd]" started-at="2020-04-01T01:52:04 EDT" name="addPostNewEmpoyee" data-provider="empDataProvider" finished-at="2020-04-01T01:52:05 EDT" duration-ms="511" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[AKMAL366]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[60006]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[24]]>
-              </value>
-            </param>
-          </params>
+        </test-method> <!-- checkResponseTime -->
+        <test-method signature="checkServerType()[pri:0, instance:com.RestAssured.SDET.TestCase.TC001_Get_All_Employees@68267da0]" started-at="2020-04-20T00:31:42 EDT" name="checkServerType" finished-at="2020-04-20T00:31:42 EDT" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- addPostNewEmpoyee -->
-        <test-method signature="addPostNewEmpoyee(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:dataDriveTest.DataDrivenTest_POI@6aaceffd]" started-at="2020-04-01T01:52:05 EDT" name="addPostNewEmpoyee" data-provider="empDataProvider" finished-at="2020-04-01T01:52:05 EDT" duration-ms="512" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[AKMAL367]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[60007]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[25]]>
-              </value>
-            </param>
-          </params>
+        </test-method> <!-- checkServerType -->
+        <test-method signature="checkStatusCode()[pri:0, instance:com.RestAssured.SDET.TestCase.TC001_Get_All_Employees@68267da0]" started-at="2020-04-20T00:31:42 EDT" name="checkStatusCode" finished-at="2020-04-20T00:31:42 EDT" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- addPostNewEmpoyee -->
-        <test-method signature="addPostNewEmpoyee(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:dataDriveTest.DataDrivenTest_POI@6aaceffd]" started-at="2020-04-01T01:52:05 EDT" name="addPostNewEmpoyee" data-provider="empDataProvider" finished-at="2020-04-01T01:52:06 EDT" duration-ms="436" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[AKMAL368]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[60008]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[26]]>
-              </value>
-            </param>
-          </params>
+        </test-method> <!-- checkStatusCode -->
+        <test-method signature="checkStatusLine()[pri:0, instance:com.RestAssured.SDET.TestCase.TC001_Get_All_Employees@68267da0]" started-at="2020-04-20T00:31:42 EDT" name="checkStatusLine" finished-at="2020-04-20T00:31:42 EDT" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- addPostNewEmpoyee -->
-      </class> <!-- dataDriveTest.DataDrivenTest_POI -->
+        </test-method> <!-- checkStatusLine -->
+        <test-method signature="checkingEncoding()[pri:0, instance:com.RestAssured.SDET.TestCase.TC001_Get_All_Employees@68267da0]" started-at="2020-04-20T00:31:42 EDT" name="checkingEncoding" finished-at="2020-04-20T00:31:42 EDT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkingEncoding -->
+        <test-method signature="getCookies()[pri:0, instance:com.RestAssured.SDET.TestCase.TC001_Get_All_Employees@68267da0]" started-at="2020-04-20T00:31:42 EDT" name="getCookies" finished-at="2020-04-20T00:31:42 EDT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCookies -->
+        <test-method signature="tearDown()[pri:0, instance:com.RestAssured.SDET.TestCase.TC001_Get_All_Employees@68267da0]" started-at="2020-04-20T00:31:42 EDT" name="tearDown" finished-at="2020-04-20T00:31:42 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.RestAssured.SDET.TestCase.TC001_Get_All_Employees -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

@@ -1,4 +1,4 @@
-package com.RestAssured.SDET;
+package com.RestAssured.SDET.TestCase;
 
 import org.json.simple.JSONObject;
 import org.testng.Assert;
@@ -27,11 +27,11 @@ public class T002_POST_Request {
 		  //Request paylaod sending along with post request
 		  JSONObject requestParams=new JSONObject();
 		  
-		  requestParams.put("FirstName","JohnXYZqqw");
-		  requestParams.put("LastName","XYZJohnqqw");
-		  requestParams.put("UserName","JohnXYZqqw");
-		  requestParams.put("Password","JohnXYZxyxqqw");
-		  requestParams.put("Email","JohnXYZqqw@gmail.com");
+		  requestParams.put("FirstName","JohnXYZqqwt");
+		  requestParams.put("LastName","XYZJohnqqwt");
+		  requestParams.put("UserName","JohnXYZqqwt");
+		  requestParams.put("Password","JohnXYZxyxqqwt");
+		  requestParams.put("Email","JohnXYZqqwt@gmail.com");
 		  
 		  httpRequest.header("Content-Type","application/json");
 		  
