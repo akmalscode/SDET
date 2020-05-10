@@ -1,4 +1,4 @@
-package dataDriveTest;
+package com.RestAssured.SDET.dataDriveTest;
 
 import org.apache.commons.collections4.Get;
 import org.json.simple.JSONObject;

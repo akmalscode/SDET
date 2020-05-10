@@ -2,9 +2,9 @@
 <classpath>
 	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
 		<attributes>
+			<attribute name="test" value="true"/>
 			<attribute name="optional" value="true"/>
 			<attribute name="maven.pomderived" value="true"/>
-			<attribute name="test" value="true"/>
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
@@ -17,15 +17,25 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/Users/akmal360/.m2/repository/io/rest-assured/rest-assured/4.2.0/rest-assured-4.2.0.jar" sourcepath="/Users/akmal360/.m2/repository/io/rest-assured/rest-assured/4.2.0/rest-assured-4.2.0-sources.jar">
+	<classpathentry kind="lib" path="/Users/akmal360/MyFiles/ExtentReport/extentreports-4.0.9/extentreports-4.0.9.jar"/>
+	<classpathentry kind="lib" path="/Users/akmal360/MyFiles/ExtentReport/extentreports-4.0.9/dependency/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="/Users/akmal360/MyFiles/ExtentReport/extentreports-4.0.9/dependency/bson-3.3.0.jar"/>
+	<classpathentry kind="lib" path="/Users/akmal360/MyFiles/ExtentReport/extentreports-4.0.9/dependency/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="/Users/akmal360/MyFiles/ExtentReport/extentreports-4.0.9/dependency/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/akmal360/MyFiles/ExtentReport/extentreports-4.0.9/dependency/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="/Users/akmal360/MyFiles/ExtentReport/extentreports-4.0.9/dependency/gson-2.8.5.jar"/>
+	<classpathentry kind="lib" path="/Users/akmal360/MyFiles/ExtentReport/extentreports-4.0.9/dependency/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="/Users/akmal360/MyFiles/ExtentReport/extentreports-4.0.9/dependency/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="/Users/akmal360/MyFiles/ExtentReport/extentreports-4.0.9/dependency/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="/Users/akmal360/MyFiles/ExtentReport/extentreports-4.0.9/dependency/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="/Users/akmal360/MyFiles/ExtentReport/extentreports-4.0.9/dependency/mongodb-driver-3.3.0.jar"/>
+	<classpathentry kind="lib" path="/Users/akmal360/MyFiles/ExtentReport/extentreports-4.0.9/dependency/mongodb-driver-core-3.3.0.jar"/>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
 		<attributes>
+			<attribute name="optional" value="true"/>
 			<attribute name="maven.pomderived" value="true"/>
-			<attribute name="test" value="true"/>
-			<attribute name="maven.groupId" value="io.rest-assured"/>
-			<attribute name="maven.artifactId" value="rest-assured"/>
-			<attribute name="maven.version" value="4.2.0"/>
-			<attribute name="maven.scope" value="test"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="/Users/akmal360/MyFiles/ExtentReport/extentreports-4.0.9/dependency/testng-6.9.10.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

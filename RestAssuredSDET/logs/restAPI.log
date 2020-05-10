@@ -17,3 +17,518 @@
 2020-04-20 00:31:42 INFO  EmployeeRestAPI: 89 - Encoding Type is  gzip
 2020-04-20 00:31:42 INFO  EmployeeRestAPI: 106 - ***Checking Cookies ****
 2020-04-20 00:31:42 INFO  EmployeeRestAPI: 113 - ***Finishd  TC001_Get_All_Employees****
+2020-04-20 02:29:15 INFO  EmployeeRestAPI: 27 - *****Started TC003_Post_Employee_Record *****
+2020-04-20 02:29:20 INFO  EmployeeRestAPI: 74 - ***Checking Server Type ****
+2020-04-20 02:29:20 INFO  EmployeeRestAPI: 76 - Content Time nginx/1.16.0
+2020-04-20 02:29:20 INFO  EmployeeRestAPI: 56 - ***Checking status code ****
+2020-04-20 02:29:20 INFO  EmployeeRestAPI: 59 - statuscode is 404
+2020-04-20 02:29:20 INFO  EmployeeRestAPI: 65 - ***Checking status code ****
+2020-04-20 02:29:20 INFO  EmployeeRestAPI: 68 - statuscode is HTTP/1.1 404 Not Found
+2020-04-20 02:29:20 INFO  EmployeeRestAPI: 83 - ***Checking Content Encodeing ****
+2020-04-20 02:29:20 INFO  EmployeeRestAPI: 85 - Encoding Type is  gzip
+2020-04-20 02:29:20 INFO  EmployeeRestAPI: 90 - ***Finishd  TC001_Get_All_Employees****
+2020-04-20 02:30:11 INFO  EmployeeRestAPI: 27 - *****Started TC003_Post_Employee_Record *****
+2020-04-20 02:30:21 INFO  EmployeeRestAPI: 74 - ***Checking Server Type ****
+2020-04-20 02:30:21 INFO  EmployeeRestAPI: 76 - Content Time nginx/1.16.0
+2020-04-20 02:30:21 INFO  EmployeeRestAPI: 56 - ***Checking status code ****
+2020-04-20 02:30:21 INFO  EmployeeRestAPI: 59 - statuscode is 404
+2020-04-20 02:30:21 INFO  EmployeeRestAPI: 65 - ***Checking status code ****
+2020-04-20 02:30:21 INFO  EmployeeRestAPI: 68 - statuscode is HTTP/1.1 404 Not Found
+2020-04-20 02:30:21 INFO  EmployeeRestAPI: 83 - ***Checking Content Encodeing ****
+2020-04-20 02:30:21 INFO  EmployeeRestAPI: 85 - Encoding Type is  gzip
+2020-04-20 02:30:21 INFO  EmployeeRestAPI: 90 - ***Finishd  TC001_Get_All_Employees****
+2020-04-20 02:31:19 INFO  EmployeeRestAPI: 27 - *****Started TC003_Post_Employee_Record *****
+2020-04-20 02:31:30 INFO  EmployeeRestAPI: 74 - ***Checking Server Type ****
+2020-04-20 02:31:30 INFO  EmployeeRestAPI: 76 - Content Time nginx/1.16.0
+2020-04-20 02:31:30 INFO  EmployeeRestAPI: 56 - ***Checking status code ****
+2020-04-20 02:31:30 INFO  EmployeeRestAPI: 59 - statuscode is 200
+2020-04-20 02:31:30 INFO  EmployeeRestAPI: 65 - ***Checking status code ****
+2020-04-20 02:31:30 INFO  EmployeeRestAPI: 68 - statuscode is HTTP/1.1 200 OK
+2020-04-20 02:31:30 INFO  EmployeeRestAPI: 83 - ***Checking Content Encodeing ****
+2020-04-20 02:31:30 INFO  EmployeeRestAPI: 85 - Encoding Type is  null
+2020-04-20 02:31:30 INFO  EmployeeRestAPI: 90 - ***Finishd  TC001_Get_All_Employees****
+2020-04-20 02:36:03 INFO  EmployeeRestAPI: 27 - *****Started TC003_Post_Employee_Record *****
+2020-04-20 02:36:13 INFO  EmployeeRestAPI: 74 - ***Checking Content Type ****
+2020-04-20 02:36:13 INFO  EmployeeRestAPI: 76 - Content Time application/json;charset=utf-8
+2020-04-20 02:36:13 INFO  EmployeeRestAPI: 56 - ***Checking status code ****
+2020-04-20 02:36:13 INFO  EmployeeRestAPI: 59 - statuscode is 200
+2020-04-20 02:36:13 INFO  EmployeeRestAPI: 65 - ***Checking status code ****
+2020-04-20 02:36:13 INFO  EmployeeRestAPI: 68 - statuscode is HTTP/1.1 200 OK
+2020-04-20 02:36:13 INFO  EmployeeRestAPI: 83 - ***Checking Date Encodeing ****
+2020-04-20 02:36:13 INFO  EmployeeRestAPI: 85 - Date is  Mon, 20 Apr 2020 06:36:04 GMT
+2020-04-20 02:36:13 INFO  EmployeeRestAPI: 90 - ***Finishd  TC001_Get_All_Employees****
+2020-04-20 02:39:31 INFO  EmployeeRestAPI: 27 - *****Started TC003_Post_Employee_Record *****
+2020-04-20 02:39:41 INFO  EmployeeRestAPI: 74 - ***Checking Content Type ****
+2020-04-20 02:39:41 INFO  EmployeeRestAPI: 76 - Content Time application/json;charset=utf-8
+2020-04-20 02:39:41 INFO  EmployeeRestAPI: 83 - ***Checking Server Type ****
+2020-04-20 02:39:41 INFO  EmployeeRestAPI: 85 - Content Time nginx/1.16.0
+2020-04-20 02:39:41 INFO  EmployeeRestAPI: 56 - ***Checking status code ****
+2020-04-20 02:39:41 INFO  EmployeeRestAPI: 59 - statuscode is 200
+2020-04-20 02:39:41 INFO  EmployeeRestAPI: 65 - ***Checking status code ****
+2020-04-20 02:39:41 INFO  EmployeeRestAPI: 68 - statuscode is HTTP/1.1 200 OK
+2020-04-20 02:39:41 INFO  EmployeeRestAPI: 92 - ***Finishd  TC001_Get_All_Employees****
+2020-04-20 02:42:43 INFO  EmployeeRestAPI: 27 - *****Started TC003_Post_Employee_Record *****
+2020-04-20 02:42:54 INFO  EmployeeRestAPI: 76 - ***Checking Content Type ****
+2020-04-20 02:42:54 INFO  EmployeeRestAPI: 78 - Content Time application/json;charset=utf-8
+2020-04-20 02:42:54 INFO  EmployeeRestAPI: 85 - ***Checking Server Type ****
+2020-04-20 02:42:54 INFO  EmployeeRestAPI: 87 - Content Time nginx/1.16.0
+2020-04-20 02:42:54 INFO  EmployeeRestAPI: 57 - ***Checking status code ****
+2020-04-20 02:42:54 INFO  EmployeeRestAPI: 60 - statuscode is 200
+2020-04-20 02:42:54 INFO  EmployeeRestAPI: 66 - ***Checking status code ****
+2020-04-20 02:42:54 INFO  EmployeeRestAPI: 69 - statuscode is HTTP/1.1 200 OK
+2020-04-20 02:42:54 INFO  EmployeeRestAPI: 94 - ***Finishd  TC001_Get_All_Employees****
+2020-04-20 02:43:37 INFO  EmployeeRestAPI: 27 - *****Started TC003_Post_Employee_Record *****
+2020-04-20 02:43:47 INFO  EmployeeRestAPI: 76 - ***Checking Content Type ****
+2020-04-20 02:43:47 INFO  EmployeeRestAPI: 78 - Content Time application/json;charset=utf-8
+2020-04-20 02:43:47 INFO  EmployeeRestAPI: 85 - ***Checking Server Type ****
+2020-04-20 02:43:47 INFO  EmployeeRestAPI: 87 - Content Time nginx/1.16.0
+2020-04-20 02:43:47 INFO  EmployeeRestAPI: 57 - ***Checking status code ****
+2020-04-20 02:43:47 INFO  EmployeeRestAPI: 60 - statuscode is 200
+2020-04-20 02:43:47 INFO  EmployeeRestAPI: 66 - ***Checking status code ****
+2020-04-20 02:43:47 INFO  EmployeeRestAPI: 69 - statuscode is HTTP/1.1 200 OK
+2020-04-20 02:43:47 INFO  EmployeeRestAPI: 94 - ***Finishd  TC001_Get_All_Employees****
+2020-04-20 02:45:05 INFO  EmployeeRestAPI: 27 - *****Started TC003_Post_Employee_Record *****
+2020-04-20 02:45:16 INFO  EmployeeRestAPI: 76 - ***Checking Content Type ****
+2020-04-20 02:45:16 INFO  EmployeeRestAPI: 78 - Content Time application/json;charset=utf-8
+2020-04-20 02:45:16 INFO  EmployeeRestAPI: 85 - ***Checking Server Type ****
+2020-04-20 02:45:16 INFO  EmployeeRestAPI: 87 - Content Time nginx/1.16.0
+2020-04-20 02:45:16 INFO  EmployeeRestAPI: 57 - ***Checking status code ****
+2020-04-20 02:45:16 INFO  EmployeeRestAPI: 60 - statuscode is 200
+2020-04-20 02:45:16 INFO  EmployeeRestAPI: 66 - ***Checking status code ****
+2020-04-20 02:45:16 INFO  EmployeeRestAPI: 69 - statuscode is HTTP/1.1 200 OK
+2020-04-20 02:45:16 INFO  EmployeeRestAPI: 94 - ***Finishd  TC001_Get_All_Employees****
+2020-04-20 02:52:52 INFO  EmployeeRestAPI: 27 - *****Started TC003_Post_Employee_Record *****
+2020-04-20 02:53:03 INFO  EmployeeRestAPI: 76 - ***Checking Content Type ****
+2020-04-20 02:53:03 INFO  EmployeeRestAPI: 78 - Content Time application/json;charset=utf-8
+2020-04-20 02:53:03 INFO  EmployeeRestAPI: 85 - ***Checking Server Type ****
+2020-04-20 02:53:03 INFO  EmployeeRestAPI: 87 - Content Time nginx/1.16.0
+2020-04-20 02:53:03 INFO  EmployeeRestAPI: 57 - ***Checking status code ****
+2020-04-20 02:53:03 INFO  EmployeeRestAPI: 60 - statuscode is 200
+2020-04-20 02:53:03 INFO  EmployeeRestAPI: 66 - ***Checking status code ****
+2020-04-20 02:53:03 INFO  EmployeeRestAPI: 69 - statuscode is HTTP/1.1 200 OK
+2020-04-20 02:53:03 INFO  EmployeeRestAPI: 94 - ***Finishd  TC001_Get_All_Employees****
+2020-04-20 03:00:39 INFO  EmployeeRestAPI: 27 - *****Started TC003_Post_Employee_Record *****
+2020-04-20 03:00:49 INFO  EmployeeRestAPI: 76 - ***Checking Content Type ****
+2020-04-20 03:00:49 INFO  EmployeeRestAPI: 78 - Content Time application/json;charset=utf-8
+2020-04-20 03:00:49 INFO  EmployeeRestAPI: 85 - ***Checking Server Type ****
+2020-04-20 03:00:49 INFO  EmployeeRestAPI: 87 - Content Time nginx/1.16.0
+2020-04-20 03:00:49 INFO  EmployeeRestAPI: 57 - ***Checking status code ****
+2020-04-20 03:00:49 INFO  EmployeeRestAPI: 60 - statuscode is 200
+2020-04-20 03:00:49 INFO  EmployeeRestAPI: 66 - ***Checking status code ****
+2020-04-20 03:00:49 INFO  EmployeeRestAPI: 69 - statuscode is HTTP/1.1 200 OK
+2020-04-20 03:00:49 INFO  EmployeeRestAPI: 94 - ***Finishd  TC001_Get_All_Employees****
+2020-04-20 03:02:24 INFO  EmployeeRestAPI: 27 - *****Started TC003_Post_Employee_Record *****
+2020-04-20 03:02:34 INFO  EmployeeRestAPI: 76 - ***Checking Content Type ****
+2020-04-20 03:02:34 INFO  EmployeeRestAPI: 78 - Content Time application/json;charset=utf-8
+2020-04-20 03:02:34 INFO  EmployeeRestAPI: 85 - ***Checking Server Type ****
+2020-04-20 03:02:34 INFO  EmployeeRestAPI: 87 - Content Time nginx/1.16.0
+2020-04-20 03:02:34 INFO  EmployeeRestAPI: 57 - ***Checking status code ****
+2020-04-20 03:02:34 INFO  EmployeeRestAPI: 60 - statuscode is 200
+2020-04-20 03:02:34 INFO  EmployeeRestAPI: 66 - ***Checking status code ****
+2020-04-20 03:02:34 INFO  EmployeeRestAPI: 69 - statuscode is HTTP/1.1 200 OK
+2020-04-20 03:02:34 INFO  EmployeeRestAPI: 94 - ***Finishd  TC001_Get_All_Employees****
+2020-04-20 03:03:46 INFO  EmployeeRestAPI: 27 - *****Started TC003_Post_Employee_Record *****
+2020-04-20 03:03:57 INFO  EmployeeRestAPI: 78 - ***Checking Content Type ****
+2020-04-20 03:03:57 INFO  EmployeeRestAPI: 80 - Content Time application/json;charset=utf-8
+2020-04-20 03:03:57 INFO  EmployeeRestAPI: 87 - ***Checking Server Type ****
+2020-04-20 03:03:57 INFO  EmployeeRestAPI: 89 - Content Time nginx/1.16.0
+2020-04-20 03:03:57 INFO  EmployeeRestAPI: 59 - ***Checking status code ****
+2020-04-20 03:03:57 INFO  EmployeeRestAPI: 62 - statuscode is 200
+2020-04-20 03:03:57 INFO  EmployeeRestAPI: 68 - ***Checking status code ****
+2020-04-20 03:03:57 INFO  EmployeeRestAPI: 71 - statuscode is HTTP/1.1 200 OK
+2020-04-20 03:03:57 INFO  EmployeeRestAPI: 96 - ***Finishd  TC001_Get_All_Employees****
+2020-04-20 03:08:15 INFO  EmployeeRestAPI: 27 - *****Started TC003_Post_Employee_Record *****
+2020-04-20 03:08:26 INFO  EmployeeRestAPI: 78 - ***Checking Content Type ****
+2020-04-20 03:08:26 INFO  EmployeeRestAPI: 80 - Content Time application/json;charset=utf-8
+2020-04-20 03:08:26 INFO  EmployeeRestAPI: 87 - ***Checking Server Type ****
+2020-04-20 03:08:26 INFO  EmployeeRestAPI: 89 - Content Time nginx/1.16.0
+2020-04-20 03:08:26 INFO  EmployeeRestAPI: 59 - ***Checking status code ****
+2020-04-20 03:08:26 INFO  EmployeeRestAPI: 62 - statuscode is 200
+2020-04-20 03:08:26 INFO  EmployeeRestAPI: 68 - ***Checking status code ****
+2020-04-20 03:08:26 INFO  EmployeeRestAPI: 71 - statuscode is HTTP/1.1 200 OK
+2020-04-20 03:08:26 INFO  EmployeeRestAPI: 96 - ***Finishd  TC001_Get_All_Employees****
+2020-04-20 03:11:52 INFO  EmployeeRestAPI: 27 - *****Started TC003_Post_Employee_Record *****
+2020-04-20 03:12:11 INFO  EmployeeRestAPI: 27 - *****Started TC003_Post_Employee_Record *****
+2020-04-20 03:12:21 INFO  EmployeeRestAPI: 78 - ***Checking Content Type ****
+2020-04-20 03:12:21 INFO  EmployeeRestAPI: 80 - Content Time application/json;charset=utf-8
+2020-04-20 03:12:21 INFO  EmployeeRestAPI: 87 - ***Checking Server Type ****
+2020-04-20 03:12:21 INFO  EmployeeRestAPI: 89 - Content Time nginx/1.16.0
+2020-04-20 03:12:21 INFO  EmployeeRestAPI: 59 - ***Checking status code ****
+2020-04-20 03:12:21 INFO  EmployeeRestAPI: 62 - statuscode is 200
+2020-04-20 03:12:21 INFO  EmployeeRestAPI: 68 - ***Checking status code ****
+2020-04-20 03:12:21 INFO  EmployeeRestAPI: 71 - statuscode is HTTP/1.1 200 OK
+2020-04-20 03:12:21 INFO  EmployeeRestAPI: 96 - ***Finishd  TC001_Get_All_Employees****
+2020-04-20 03:14:19 INFO  EmployeeRestAPI: 27 - *****Started TC003_Post_Employee_Record *****
+2020-04-20 03:14:30 INFO  EmployeeRestAPI: 78 - ***Checking Content Type ****
+2020-04-20 03:14:30 INFO  EmployeeRestAPI: 80 - Content Time application/json;charset=utf-8
+2020-04-20 03:14:30 INFO  EmployeeRestAPI: 87 - ***Checking Server Type ****
+2020-04-20 03:14:30 INFO  EmployeeRestAPI: 89 - Content Time nginx/1.16.0
+2020-04-20 03:14:30 INFO  EmployeeRestAPI: 59 - ***Checking status code ****
+2020-04-20 03:14:30 INFO  EmployeeRestAPI: 62 - statuscode is 200
+2020-04-20 03:14:30 INFO  EmployeeRestAPI: 68 - ***Checking status code ****
+2020-04-20 03:14:30 INFO  EmployeeRestAPI: 71 - statuscode is HTTP/1.1 200 OK
+2020-04-20 03:14:30 INFO  EmployeeRestAPI: 96 - ***Finishd  TC001_Get_All_Employees****
+2020-04-20 03:16:50 INFO  EmployeeRestAPI: 27 - *****Started TC003_Post_Employee_Record *****
+2020-04-20 03:17:01 INFO  EmployeeRestAPI: 78 - ***Checking Content Type ****
+2020-04-20 03:17:01 INFO  EmployeeRestAPI: 80 - Content Time application/json;charset=utf-8
+2020-04-20 03:17:01 INFO  EmployeeRestAPI: 87 - ***Checking Server Type ****
+2020-04-20 03:17:01 INFO  EmployeeRestAPI: 89 - Content Time nginx/1.16.0
+2020-04-20 03:17:01 INFO  EmployeeRestAPI: 59 - ***Checking status code ****
+2020-04-20 03:17:01 INFO  EmployeeRestAPI: 62 - statuscode is 200
+2020-04-20 03:17:01 INFO  EmployeeRestAPI: 68 - ***Checking status code ****
+2020-04-20 03:17:01 INFO  EmployeeRestAPI: 71 - statuscode is HTTP/1.1 200 OK
+2020-04-20 03:17:01 INFO  EmployeeRestAPI: 96 - ***Finishd  TC001_Get_All_Employees****
+2020-04-20 03:23:04 INFO  EmployeeRestAPI: 27 - *****Started TC003_Post_Employee_Record *****
+2020-04-20 03:23:15 INFO  EmployeeRestAPI: 78 - ***Checking Content Type ****
+2020-04-20 03:23:15 INFO  EmployeeRestAPI: 80 - Content Time application/json;charset=utf-8
+2020-04-20 03:23:15 INFO  EmployeeRestAPI: 87 - ***Checking Server Type ****
+2020-04-20 03:23:15 INFO  EmployeeRestAPI: 89 - Content Time nginx/1.16.0
+2020-04-20 03:23:15 INFO  EmployeeRestAPI: 59 - ***Checking status code ****
+2020-04-20 03:23:15 INFO  EmployeeRestAPI: 62 - statuscode is 200
+2020-04-20 03:23:15 INFO  EmployeeRestAPI: 68 - ***Checking status code ****
+2020-04-20 03:23:15 INFO  EmployeeRestAPI: 71 - statuscode is HTTP/1.1 200 OK
+2020-04-20 03:23:15 INFO  EmployeeRestAPI: 96 - ***Finishd  TC001_Get_All_Employees****
+2020-04-20 03:30:13 INFO  EmployeeRestAPI: 27 - *****Started TC003_Post_Employee_Record *****
+2020-04-20 03:30:24 INFO  EmployeeRestAPI: 78 - ***Checking Content Type ****
+2020-04-20 03:30:24 INFO  EmployeeRestAPI: 80 - Content Time application/json;charset=utf-8
+2020-04-20 03:30:24 INFO  EmployeeRestAPI: 87 - ***Checking Server Type ****
+2020-04-20 03:30:24 INFO  EmployeeRestAPI: 89 - Content Time nginx/1.16.0
+2020-04-20 03:30:24 INFO  EmployeeRestAPI: 59 - ***Checking status code ****
+2020-04-20 03:30:24 INFO  EmployeeRestAPI: 62 - statuscode is 200
+2020-04-20 03:30:24 INFO  EmployeeRestAPI: 68 - ***Checking status code ****
+2020-04-20 03:30:24 INFO  EmployeeRestAPI: 71 - statuscode is HTTP/1.1 200 OK
+2020-04-20 03:30:24 INFO  EmployeeRestAPI: 96 - ***Finishd  TC001_Get_All_Employees****
+2020-04-20 03:37:47 INFO  EmployeeRestAPI: 27 - *****Started TC003_Post_Employee_Record *****
+2020-04-20 03:37:58 INFO  EmployeeRestAPI: 78 - ***Checking Content Type ****
+2020-04-20 03:37:58 INFO  EmployeeRestAPI: 80 - Content Time application/json;charset=utf-8
+2020-04-20 03:37:58 INFO  EmployeeRestAPI: 87 - ***Checking Server Type ****
+2020-04-20 03:37:58 INFO  EmployeeRestAPI: 89 - Content Time nginx/1.16.0
+2020-04-20 03:37:58 INFO  EmployeeRestAPI: 59 - ***Checking status code ****
+2020-04-20 03:37:58 INFO  EmployeeRestAPI: 62 - statuscode is 200
+2020-04-20 03:37:58 INFO  EmployeeRestAPI: 68 - ***Checking status code ****
+2020-04-20 03:37:58 INFO  EmployeeRestAPI: 71 - statuscode is HTTP/1.1 200 OK
+2020-04-20 03:37:58 INFO  EmployeeRestAPI: 96 - ***Finishd  TC001_Get_All_Employees****
+2020-04-20 03:43:17 INFO  EmployeeRestAPI: 26 - *****Started TC003_Post_Employee_Record *****
+2020-04-20 03:43:27 INFO  EmployeeRestAPI: 70 - ***Checking Content Type ****
+2020-04-20 03:43:27 INFO  EmployeeRestAPI: 72 - Content Time application/json;charset=utf-8
+2020-04-20 03:43:27 INFO  EmployeeRestAPI: 79 - ***Checking Server Type ****
+2020-04-20 03:43:27 INFO  EmployeeRestAPI: 81 - Content Time nginx/1.16.0
+2020-04-20 03:43:27 INFO  EmployeeRestAPI: 51 - ***Checking status code ****
+2020-04-20 03:43:27 INFO  EmployeeRestAPI: 54 - statuscode is 200
+2020-04-20 03:43:27 INFO  EmployeeRestAPI: 60 - ***Checking status code ****
+2020-04-20 03:43:27 INFO  EmployeeRestAPI: 63 - statuscode is HTTP/1.1 200 OK
+2020-04-20 03:43:27 INFO  EmployeeRestAPI: 88 - ***Finishd  TC001_Get_All_Employees****
+2020-04-20 03:46:38 INFO  EmployeeRestAPI: 22 - *****Started TC003_Post_Employee_Record *****
+2020-04-20 03:46:49 INFO  EmployeeRestAPI: 66 - ***Checking Content Type ****
+2020-04-20 03:46:49 INFO  EmployeeRestAPI: 75 - ***Checking Server Type ****
+2020-04-20 03:46:49 INFO  EmployeeRestAPI: 47 - ***Checking status code ****
+2020-04-20 03:46:49 INFO  EmployeeRestAPI: 56 - ***Checking status code ****
+2020-04-20 03:46:49 INFO  EmployeeRestAPI: 84 - ***Finishd  TC001_Get_All_Employees****
+2020-05-04 15:14:16 INFO  EmployeeRestAPI: 27 - *****Started TC003_Post_Employee_Record *****
+2020-05-04 15:14:27 INFO  EmployeeRestAPI: 80 - ***Checking Content Type ****
+2020-05-04 15:14:27 INFO  EmployeeRestAPI: 82 - Content Time text/html;charset=UTF-8
+2020-05-04 15:14:27 INFO  EmployeeRestAPI: 89 - ***Checking Server Type ****
+2020-05-04 15:14:27 INFO  EmployeeRestAPI: 91 - Content Time nginx/1.16.0
+2020-05-04 15:14:27 INFO  EmployeeRestAPI: 61 - ***Checking status code ****
+2020-05-04 15:14:27 INFO  EmployeeRestAPI: 64 - statuscode is 405
+2020-05-04 15:14:27 INFO  EmployeeRestAPI: 70 - ***Checking status code ****
+2020-05-04 15:14:27 INFO  EmployeeRestAPI: 73 - statuscode is HTTP/1.1 405 Method Not Allowed
+2020-05-04 15:14:27 INFO  EmployeeRestAPI: 100 - ***Finishd  TC001_Get_All_Employees****
+2020-05-04 15:16:54 INFO  EmployeeRestAPI: 27 - *****Started TC003_Post_Employee_Record *****
+2020-05-04 15:17:05 INFO  EmployeeRestAPI: 57 - ***Checking status code ****
+2020-05-04 15:17:05 INFO  EmployeeRestAPI: 60 - statuscode is 200
+2020-05-04 15:17:05 INFO  EmployeeRestAPI: 66 - ***Checking status code ****
+2020-05-04 15:17:05 INFO  EmployeeRestAPI: 69 - statuscode is HTTP/1.1 200 OK
+2020-05-04 15:21:54 INFO  EmployeeRestAPI: 27 - *****Started TC003_Post_Employee_Record *****
+2020-05-04 15:22:04 INFO  EmployeeRestAPI: 80 - ***Checking Content Type ****
+2020-05-04 15:22:04 INFO  EmployeeRestAPI: 82 - Content Time text/html;charset=UTF-8
+2020-05-04 15:22:04 INFO  EmployeeRestAPI: 89 - ***Checking Server Type ****
+2020-05-04 15:22:04 INFO  EmployeeRestAPI: 91 - Content Time nginx/1.16.0
+2020-05-04 15:22:04 INFO  EmployeeRestAPI: 61 - ***Checking status code ****
+2020-05-04 15:22:04 INFO  EmployeeRestAPI: 64 - statuscode is 405
+2020-05-04 15:22:04 INFO  EmployeeRestAPI: 70 - ***Checking status code ****
+2020-05-04 15:22:04 INFO  EmployeeRestAPI: 73 - statuscode is HTTP/1.1 405 Method Not Allowed
+2020-05-04 15:22:04 INFO  EmployeeRestAPI: 100 - ***Finishd  TC001_Get_All_Employees****
+2020-05-04 18:19:09 INFO  EmployeeRestAPI: 27 - *****Started TC003_Post_Employee_Record *****
+2020-05-04 18:19:19 INFO  EmployeeRestAPI: 80 - ***Checking Content Type ****
+2020-05-04 18:19:19 INFO  EmployeeRestAPI: 82 - Content Time text/html;charset=UTF-8
+2020-05-04 18:19:19 INFO  EmployeeRestAPI: 89 - ***Checking Server Type ****
+2020-05-04 18:19:19 INFO  EmployeeRestAPI: 91 - Content Time nginx/1.16.0
+2020-05-04 18:19:19 INFO  EmployeeRestAPI: 61 - ***Checking status code ****
+2020-05-04 18:19:19 INFO  EmployeeRestAPI: 64 - statuscode is 405
+2020-05-04 18:19:19 INFO  EmployeeRestAPI: 70 - ***Checking status code ****
+2020-05-04 18:19:19 INFO  EmployeeRestAPI: 73 - statuscode is HTTP/1.1 405 Method Not Allowed
+2020-05-04 18:19:19 INFO  EmployeeRestAPI: 100 - ***Finishd  TC001_Get_All_Employees****
+2020-05-04 18:21:15 INFO  EmployeeRestAPI: 27 - *****Started TC003_Post_Employee_Record *****
+2020-05-04 18:21:25 INFO  EmployeeRestAPI: 80 - ***Checking Content Type ****
+2020-05-04 18:21:25 INFO  EmployeeRestAPI: 82 - Content Time text/html;charset=UTF-8
+2020-05-04 18:21:25 INFO  EmployeeRestAPI: 89 - ***Checking Server Type ****
+2020-05-04 18:21:25 INFO  EmployeeRestAPI: 91 - Content Time nginx/1.16.0
+2020-05-04 18:21:25 INFO  EmployeeRestAPI: 61 - ***Checking status code ****
+2020-05-04 18:21:25 INFO  EmployeeRestAPI: 64 - statuscode is 405
+2020-05-04 18:21:25 INFO  EmployeeRestAPI: 70 - ***Checking status code ****
+2020-05-04 18:21:25 INFO  EmployeeRestAPI: 73 - statuscode is HTTP/1.1 405 Method Not Allowed
+2020-05-04 18:21:25 INFO  EmployeeRestAPI: 100 - ***Finishd  TC001_Get_All_Employees****
+2020-05-04 18:24:03 INFO  EmployeeRestAPI: 27 - *****Started TC003_Post_Employee_Record *****
+2020-05-04 18:24:14 INFO  EmployeeRestAPI: 80 - ***Checking Content Type ****
+2020-05-04 18:24:14 INFO  EmployeeRestAPI: 82 - Content Time text/html;charset=UTF-8
+2020-05-04 18:24:14 INFO  EmployeeRestAPI: 89 - ***Checking Server Type ****
+2020-05-04 18:24:14 INFO  EmployeeRestAPI: 91 - Content Time nginx/1.16.0
+2020-05-04 18:24:14 INFO  EmployeeRestAPI: 61 - ***Checking status code ****
+2020-05-04 18:24:14 INFO  EmployeeRestAPI: 64 - statuscode is 405
+2020-05-04 18:24:14 INFO  EmployeeRestAPI: 70 - ***Checking status code ****
+2020-05-04 18:24:14 INFO  EmployeeRestAPI: 73 - statuscode is HTTP/1.1 405 Method Not Allowed
+2020-05-04 18:24:14 INFO  EmployeeRestAPI: 100 - ***Finishd  TC001_Get_All_Employees****
+2020-05-04 18:30:45 INFO  EmployeeRestAPI: 27 - *****Started TC003_Post_Employee_Record *****
+2020-05-04 18:30:56 INFO  EmployeeRestAPI: 80 - ***Checking Content Type ****
+2020-05-04 18:30:56 INFO  EmployeeRestAPI: 82 - Content Time application/json;charset=utf-8
+2020-05-04 18:30:56 INFO  EmployeeRestAPI: 89 - ***Checking Server Type ****
+2020-05-04 18:30:56 INFO  EmployeeRestAPI: 91 - Content Time nginx/1.16.0
+2020-05-04 18:30:56 INFO  EmployeeRestAPI: 61 - ***Checking status code ****
+2020-05-04 18:30:56 INFO  EmployeeRestAPI: 64 - statuscode is 200
+2020-05-04 18:30:56 INFO  EmployeeRestAPI: 70 - ***Checking status code ****
+2020-05-04 18:30:56 INFO  EmployeeRestAPI: 73 - statuscode is HTTP/1.1 200 OK
+2020-05-04 18:30:56 INFO  EmployeeRestAPI: 100 - ***Finishd  TC001_Get_All_Employees****
+2020-05-04 18:32:46 INFO  EmployeeRestAPI: 27 - *****Started TC003_Post_Employee_Record *****
+2020-05-04 18:32:57 INFO  EmployeeRestAPI: 80 - ***Checking Content Type ****
+2020-05-04 18:32:57 INFO  EmployeeRestAPI: 82 - Content Time application/json;charset=utf-8
+2020-05-04 18:32:57 INFO  EmployeeRestAPI: 89 - ***Checking Server Type ****
+2020-05-04 18:32:57 INFO  EmployeeRestAPI: 91 - Content Time nginx/1.16.0
+2020-05-04 18:32:57 INFO  EmployeeRestAPI: 61 - ***Checking status code ****
+2020-05-04 18:32:57 INFO  EmployeeRestAPI: 64 - statuscode is 200
+2020-05-04 18:32:57 INFO  EmployeeRestAPI: 70 - ***Checking status code ****
+2020-05-04 18:32:57 INFO  EmployeeRestAPI: 73 - statuscode is HTTP/1.1 200 OK
+2020-05-04 18:32:57 INFO  EmployeeRestAPI: 100 - ***Finishd  TC001_Get_All_Employees****
+2020-05-04 18:33:42 INFO  EmployeeRestAPI: 27 - *****Started TC003_Post_Employee_Record *****
+2020-05-04 18:33:52 INFO  EmployeeRestAPI: 80 - ***Checking Content Type ****
+2020-05-04 18:33:52 INFO  EmployeeRestAPI: 82 - Content Time application/json;charset=utf-8
+2020-05-04 18:33:52 INFO  EmployeeRestAPI: 89 - ***Checking Server Type ****
+2020-05-04 18:33:52 INFO  EmployeeRestAPI: 91 - Content Time nginx/1.16.0
+2020-05-04 18:33:52 INFO  EmployeeRestAPI: 61 - ***Checking status code ****
+2020-05-04 18:33:52 INFO  EmployeeRestAPI: 64 - statuscode is 200
+2020-05-04 18:33:52 INFO  EmployeeRestAPI: 70 - ***Checking status code ****
+2020-05-04 18:33:52 INFO  EmployeeRestAPI: 73 - statuscode is HTTP/1.1 200 OK
+2020-05-04 18:33:52 INFO  EmployeeRestAPI: 100 - ***Finishd  TC001_Get_All_Employees****
+2020-05-04 19:18:06 INFO  EmployeeRestAPI: 27 - *****Started TC003_Post_Employee_Record *****
+2020-05-04 19:18:14 INFO  EmployeeRestAPI: 80 - ***Checking Content Type ****
+2020-05-04 19:18:14 INFO  EmployeeRestAPI: 82 - Content Time application/json;charset=utf-8
+2020-05-04 19:18:14 INFO  EmployeeRestAPI: 89 - ***Checking Server Type ****
+2020-05-04 19:18:14 INFO  EmployeeRestAPI: 91 - Content Time nginx/1.16.0
+2020-05-04 19:18:14 INFO  EmployeeRestAPI: 61 - ***Checking status code ****
+2020-05-04 19:18:14 INFO  EmployeeRestAPI: 64 - statuscode is 200
+2020-05-04 19:18:14 INFO  EmployeeRestAPI: 70 - ***Checking status Line ****
+2020-05-04 19:18:14 INFO  EmployeeRestAPI: 73 - statuscode is HTTP/1.1 200 OK
+2020-05-04 19:18:14 INFO  EmployeeRestAPI: 100 - ***Finishd  TC001_Get_All_Employees****
+2020-05-04 19:24:11 INFO  EmployeeRestAPI: 27 - *****Started TC003_Post_Employee_Record *****
+2020-05-04 19:24:19 INFO  EmployeeRestAPI: 80 - ***Checking Content Type ****
+2020-05-04 19:24:19 INFO  EmployeeRestAPI: 82 - Content Time application/json;charset=utf-8
+2020-05-04 19:24:19 INFO  EmployeeRestAPI: 89 - ***Checking Server Type ****
+2020-05-04 19:24:19 INFO  EmployeeRestAPI: 91 - Content Time nginx/1.16.0
+2020-05-04 19:24:19 INFO  EmployeeRestAPI: 61 - ***Checking status code ****
+2020-05-04 19:24:19 INFO  EmployeeRestAPI: 64 - statuscode is 200
+2020-05-04 19:24:19 INFO  EmployeeRestAPI: 70 - ***Checking status Line ****
+2020-05-04 19:24:19 INFO  EmployeeRestAPI: 73 - statuscode is HTTP/1.1 200 OK
+2020-05-04 19:24:19 INFO  EmployeeRestAPI: 100 - ***Finishd  TC001_Get_All_Employees****
+2020-05-04 19:44:27 INFO  EmployeeRestAPI: 27 - *****Started TC003_Post_Employee_Record *****
+2020-05-04 19:44:35 INFO  EmployeeRestAPI: 80 - ***Checking Content Type ****
+2020-05-04 19:44:35 INFO  EmployeeRestAPI: 82 - Content Time application/json;charset=utf-8
+2020-05-04 19:44:35 INFO  EmployeeRestAPI: 89 - ***Checking Server Type ****
+2020-05-04 19:44:35 INFO  EmployeeRestAPI: 91 - Content Time nginx/1.16.0
+2020-05-04 19:44:35 INFO  EmployeeRestAPI: 61 - ***Checking status code ****
+2020-05-04 19:44:35 INFO  EmployeeRestAPI: 64 - statuscode is 200
+2020-05-04 19:44:35 INFO  EmployeeRestAPI: 70 - ***Checking status Line ****
+2020-05-04 19:44:35 INFO  EmployeeRestAPI: 73 - statuscode is HTTP/1.1 200 OK
+2020-05-04 19:44:35 INFO  EmployeeRestAPI: 100 - ***Finishd  TC001_Get_All_Employees****
+2020-05-04 19:45:01 INFO  EmployeeRestAPI: 27 - *****Started TC003_Post_Employee_Record *****
+2020-05-04 19:45:08 INFO  EmployeeRestAPI: 80 - ***Checking Content Type ****
+2020-05-04 19:45:08 INFO  EmployeeRestAPI: 82 - Content Time application/json;charset=utf-8
+2020-05-04 19:45:08 INFO  EmployeeRestAPI: 89 - ***Checking Server Type ****
+2020-05-04 19:45:08 INFO  EmployeeRestAPI: 91 - Content Time nginx/1.16.0
+2020-05-04 19:45:08 INFO  EmployeeRestAPI: 61 - ***Checking status code ****
+2020-05-04 19:45:08 INFO  EmployeeRestAPI: 64 - statuscode is 200
+2020-05-04 19:45:08 INFO  EmployeeRestAPI: 70 - ***Checking status Line ****
+2020-05-04 19:45:08 INFO  EmployeeRestAPI: 73 - statuscode is HTTP/1.1 200 OK
+2020-05-04 19:45:08 INFO  EmployeeRestAPI: 100 - ***Finishd  TC001_Get_All_Employees****
+2020-05-06 06:50:44 INFO  EmployeeRestAPI: 28 - *****Started TC003_Post_Employee_Record *****
+2020-05-06 06:50:52 INFO  EmployeeRestAPI: 75 - ***Checking Content Type ****
+2020-05-06 06:50:52 INFO  EmployeeRestAPI: 77 - Content Time application/json;charset=utf-8
+2020-05-06 06:50:52 INFO  EmployeeRestAPI: 84 - ***Checking Server Type ****
+2020-05-06 06:50:52 INFO  EmployeeRestAPI: 86 - Content Time nginx/1.16.0
+2020-05-06 06:50:52 INFO  EmployeeRestAPI: 56 - ***Checking status code ****
+2020-05-06 06:50:52 INFO  EmployeeRestAPI: 59 - statuscode is 200
+2020-05-06 06:50:52 INFO  EmployeeRestAPI: 65 - ***Checking status Line ****
+2020-05-06 06:50:52 INFO  EmployeeRestAPI: 68 - statuscode is HTTP/1.1 200 OK
+2020-05-06 06:50:52 INFO  EmployeeRestAPI: 95 - ***Finishd  TC005_Delete_All_Employees****
+2020-05-09 23:41:55 INFO  EmployeeRestAPI: 16 -  Started TC001_Get_All_Employees 
+2020-05-09 23:42:04 INFO  EmployeeRestAPI: 69 - ***Checking Server Type ****
+2020-05-09 23:42:04 INFO  EmployeeRestAPI: 71 - Content Time nginx/1.16.0
+2020-05-09 23:42:04 INFO  EmployeeRestAPI: 95 - ***Checking Content Length ****
+2020-05-09 23:42:04 INFO  EmployeeRestAPI: 97 - Response Time 595
+2020-05-09 23:42:04 INFO  EmployeeRestAPI: 26 - ***Checking response body****
+2020-05-09 23:42:04 INFO  EmployeeRestAPI: 29 - ***Response Body ****{"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+2020-05-09 23:42:04 INFO  EmployeeRestAPI: 56 - ***Checking Response Time ****
+2020-05-09 23:42:04 INFO  EmployeeRestAPI: 58 - Response Time 186
+2020-05-09 23:42:04 INFO  EmployeeRestAPI: 78 - ***Checking Contant  Type ****
+2020-05-09 23:42:04 INFO  EmployeeRestAPI: 80 - Server Time application/json;charset=utf-8
+2020-05-09 23:42:04 INFO  EmployeeRestAPI: 36 - ***Checking status code ****
+2020-05-09 23:42:04 INFO  EmployeeRestAPI: 39 - statuscode is 200
+2020-05-09 23:42:04 INFO  EmployeeRestAPI: 46 - ***Checking status code ****
+2020-05-09 23:42:04 INFO  EmployeeRestAPI: 49 - statuscode is HTTP/1.1 200 OK
+2020-05-09 23:42:04 INFO  EmployeeRestAPI: 87 - ***Checking Server Type ****
+2020-05-09 23:42:04 INFO  EmployeeRestAPI: 89 - Encoding Type is  gzip
+2020-05-09 23:42:04 INFO  EmployeeRestAPI: 108 - ***Checking Cookies ****
+2020-05-09 23:42:04 INFO  EmployeeRestAPI: 115 - ***Finishd  TC001_Get_All_Employees****
+2020-05-09 23:42:04 INFO  EmployeeRestAPI: 16 -  Started TC001_Get_All_Employees 
+2020-05-09 23:42:10 INFO  EmployeeRestAPI: 78 - ***Checking Content  Type ****
+2020-05-09 23:42:10 INFO  EmployeeRestAPI: 80 - Server Time application/json;charset=utf-8
+2020-05-09 23:42:10 INFO  EmployeeRestAPI: 26 - ***Checking response body****
+2020-05-09 23:42:10 INFO  EmployeeRestAPI: 29 - ***Response Body ****{"status":"failed","message":"Oops! someting issue found to fetch record."}
+2020-05-09 23:42:10 INFO  EmployeeRestAPI: 56 - ***Checking Response Time ****
+2020-05-09 23:42:10 INFO  EmployeeRestAPI: 58 - Response Time 467
+2020-05-09 23:42:10 INFO  EmployeeRestAPI: 69 - ***Checking Server Type ****
+2020-05-09 23:42:10 INFO  EmployeeRestAPI: 71 - Content Time nginx/1.16.0
+2020-05-09 23:42:10 INFO  EmployeeRestAPI: 36 - ***Checking status code ****
+2020-05-09 23:42:10 INFO  EmployeeRestAPI: 39 - statuscode is 400
+2020-05-09 23:42:10 INFO  EmployeeRestAPI: 46 - ***Checking status code ****
+2020-05-09 23:42:10 INFO  EmployeeRestAPI: 49 - statuscode is HTTP/1.1 400 Bad Request
+2020-05-09 23:42:10 INFO  EmployeeRestAPI: 87 - ***Checking Server Type ****
+2020-05-09 23:42:10 INFO  EmployeeRestAPI: 89 - Encoding Type is  null
+2020-05-09 23:42:10 INFO  EmployeeRestAPI: 95 - ***Checking Cookies ****
+2020-05-09 23:42:10 INFO  EmployeeRestAPI: 102 - ***Finishd  TC001_Get_All_Employees****
+2020-05-09 23:42:10 INFO  EmployeeRestAPI: 27 - *****Started TC003_Post_Employee_Record *****
+2020-05-09 23:42:17 INFO  EmployeeRestAPI: 79 - ***Checking Content Type ****
+2020-05-09 23:42:17 INFO  EmployeeRestAPI: 81 - Content Time application/json;charset=utf-8
+2020-05-09 23:42:17 INFO  EmployeeRestAPI: 88 - ***Checking Server Type ****
+2020-05-09 23:42:17 INFO  EmployeeRestAPI: 90 - Content Time nginx/1.16.0
+2020-05-09 23:42:17 INFO  EmployeeRestAPI: 60 - ***Checking status code ****
+2020-05-09 23:42:17 INFO  EmployeeRestAPI: 63 - statuscode is 200
+2020-05-09 23:42:17 INFO  EmployeeRestAPI: 69 - ***Checking status Line ****
+2020-05-09 23:42:17 INFO  EmployeeRestAPI: 72 - statuscode is HTTP/1.1 200 OK
+2020-05-09 23:42:17 INFO  EmployeeRestAPI: 97 - ***Finishd  TC001_Get_All_Employees****
+2020-05-09 23:42:17 INFO  EmployeeRestAPI: 27 - *****Started TC003_Post_Employee_Record *****
+2020-05-09 23:42:26 INFO  EmployeeRestAPI: 58 - ***Checking status code ****
+2020-05-09 23:42:26 INFO  EmployeeRestAPI: 61 - statuscode is 200
+2020-05-09 23:42:26 INFO  EmployeeRestAPI: 67 - ***Checking status code ****
+2020-05-09 23:42:26 INFO  EmployeeRestAPI: 70 - statuscode is HTTP/1.1 200 OK
+2020-05-09 23:48:20 INFO  EmployeeRestAPI: 27 - *****Started TC003_Post_Employee_Record *****
+2020-05-09 23:48:27 INFO  EmployeeRestAPI: 79 - ***Checking Content Type ****
+2020-05-09 23:48:27 INFO  EmployeeRestAPI: 81 - Content Time application/json;charset=utf-8
+2020-05-09 23:48:27 INFO  EmployeeRestAPI: 88 - ***Checking Server Type ****
+2020-05-09 23:48:27 INFO  EmployeeRestAPI: 90 - Content Time nginx/1.16.0
+2020-05-09 23:48:27 INFO  EmployeeRestAPI: 60 - ***Checking status code ****
+2020-05-09 23:48:27 INFO  EmployeeRestAPI: 63 - statuscode is 200
+2020-05-09 23:48:27 INFO  EmployeeRestAPI: 69 - ***Checking status Line ****
+2020-05-09 23:48:27 INFO  EmployeeRestAPI: 72 - statuscode is HTTP/1.1 200 OK
+2020-05-09 23:48:27 INFO  EmployeeRestAPI: 97 - ***Finishd  TC001_Get_All_Employees****
+2020-05-09 23:49:42 INFO  EmployeeRestAPI: 27 - *****Started TC003_Post_Employee_Record *****
+2020-05-09 23:49:50 INFO  EmployeeRestAPI: 79 - ***Checking Content Type ****
+2020-05-09 23:49:50 INFO  EmployeeRestAPI: 81 - Content Time application/json;charset=utf-8
+2020-05-09 23:49:50 INFO  EmployeeRestAPI: 88 - ***Checking Server Type ****
+2020-05-09 23:49:50 INFO  EmployeeRestAPI: 90 - Content Time nginx/1.16.0
+2020-05-09 23:49:50 INFO  EmployeeRestAPI: 60 - ***Checking status code ****
+2020-05-09 23:49:50 INFO  EmployeeRestAPI: 63 - statuscode is 200
+2020-05-09 23:49:50 INFO  EmployeeRestAPI: 69 - ***Checking status Line ****
+2020-05-09 23:49:50 INFO  EmployeeRestAPI: 72 - statuscode is HTTP/1.1 200 OK
+2020-05-09 23:49:50 INFO  EmployeeRestAPI: 97 - ***Finishd  TC001_Get_All_Employees****
+2020-05-10 00:03:42 INFO  EmployeeRestAPI: 16 -  Started TC001_Get_All_Employees 
+2020-05-10 00:03:51 INFO  EmployeeRestAPI: 69 - ***Checking Server Type ****
+2020-05-10 00:03:51 INFO  EmployeeRestAPI: 71 - Content Time nginx/1.16.0
+2020-05-10 00:03:51 INFO  EmployeeRestAPI: 95 - ***Checking Content Length ****
+2020-05-10 00:03:51 INFO  EmployeeRestAPI: 97 - Response Time 595
+2020-05-10 00:03:51 INFO  EmployeeRestAPI: 26 - ***Checking response body****
+2020-05-10 00:03:51 INFO  EmployeeRestAPI: 29 - ***Response Body ****{"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+2020-05-10 00:03:51 INFO  EmployeeRestAPI: 56 - ***Checking Response Time ****
+2020-05-10 00:03:51 INFO  EmployeeRestAPI: 58 - Response Time 169
+2020-05-10 00:03:51 INFO  EmployeeRestAPI: 78 - ***Checking Contant  Type ****
+2020-05-10 00:03:51 INFO  EmployeeRestAPI: 80 - Server Time application/json;charset=utf-8
+2020-05-10 00:03:51 INFO  EmployeeRestAPI: 36 - ***Checking status code ****
+2020-05-10 00:03:51 INFO  EmployeeRestAPI: 39 - statuscode is 200
+2020-05-10 00:03:51 INFO  EmployeeRestAPI: 46 - ***Checking status code ****
+2020-05-10 00:03:51 INFO  EmployeeRestAPI: 49 - statuscode is HTTP/1.1 200 OK
+2020-05-10 00:03:51 INFO  EmployeeRestAPI: 87 - ***Checking Server Type ****
+2020-05-10 00:03:51 INFO  EmployeeRestAPI: 89 - Encoding Type is  gzip
+2020-05-10 00:03:51 INFO  EmployeeRestAPI: 108 - ***Checking Cookies ****
+2020-05-10 00:03:51 INFO  EmployeeRestAPI: 115 - ***Finishd  TC001_Get_All_Employees****
+2020-05-10 00:03:51 INFO  EmployeeRestAPI: 16 -  Started TC001_Get_All_Employees 
+2020-05-10 00:03:58 INFO  EmployeeRestAPI: 78 - ***Checking Content  Type ****
+2020-05-10 00:03:58 INFO  EmployeeRestAPI: 80 - Server Time application/json;charset=utf-8
+2020-05-10 00:03:58 INFO  EmployeeRestAPI: 26 - ***Checking response body****
+2020-05-10 00:03:58 INFO  EmployeeRestAPI: 29 - ***Response Body ****{"status":"failed","message":"Oops! someting issue found to fetch record."}
+2020-05-10 00:03:58 INFO  EmployeeRestAPI: 56 - ***Checking Response Time ****
+2020-05-10 00:03:58 INFO  EmployeeRestAPI: 58 - Response Time 624
+2020-05-10 00:03:58 INFO  EmployeeRestAPI: 69 - ***Checking Server Type ****
+2020-05-10 00:03:58 INFO  EmployeeRestAPI: 71 - Content Time nginx/1.16.0
+2020-05-10 00:03:58 INFO  EmployeeRestAPI: 36 - ***Checking status code ****
+2020-05-10 00:03:58 INFO  EmployeeRestAPI: 39 - statuscode is 400
+2020-05-10 00:03:58 INFO  EmployeeRestAPI: 46 - ***Checking status code ****
+2020-05-10 00:03:58 INFO  EmployeeRestAPI: 49 - statuscode is HTTP/1.1 400 Bad Request
+2020-05-10 00:03:58 INFO  EmployeeRestAPI: 87 - ***Checking Server Type ****
+2020-05-10 00:03:58 INFO  EmployeeRestAPI: 89 - Encoding Type is  null
+2020-05-10 00:03:58 INFO  EmployeeRestAPI: 95 - ***Checking Cookies ****
+2020-05-10 00:03:58 INFO  EmployeeRestAPI: 102 - ***Finishd  TC001_Get_All_Employees****
+2020-05-10 00:03:58 INFO  EmployeeRestAPI: 27 - *****Started TC003_Post_Employee_Record *****
+2020-05-10 00:04:04 INFO  EmployeeRestAPI: 80 - ***Checking Content Type ****
+2020-05-10 00:04:04 INFO  EmployeeRestAPI: 82 - Content Time application/json;charset=utf-8
+2020-05-10 00:04:04 INFO  EmployeeRestAPI: 89 - ***Checking Server Type ****
+2020-05-10 00:04:04 INFO  EmployeeRestAPI: 91 - Content Time nginx/1.16.0
+2020-05-10 00:04:04 INFO  EmployeeRestAPI: 61 - ***Checking status code ****
+2020-05-10 00:04:04 INFO  EmployeeRestAPI: 64 - statuscode is 200
+2020-05-10 00:04:04 INFO  EmployeeRestAPI: 70 - ***Checking status Line ****
+2020-05-10 00:04:04 INFO  EmployeeRestAPI: 73 - statuscode is HTTP/1.1 200 OK
+2020-05-10 00:04:04 INFO  EmployeeRestAPI: 98 - ***Finishd  TC001_Get_All_Employees****
+2020-05-10 00:04:04 INFO  EmployeeRestAPI: 27 - *****Started TC003_Post_Employee_Record *****
+2020-05-10 00:04:14 INFO  EmployeeRestAPI: 58 - ***Checking status code ****
+2020-05-10 00:04:14 INFO  EmployeeRestAPI: 61 - statuscode is 200
+2020-05-10 00:04:14 INFO  EmployeeRestAPI: 67 - ***Checking status code ****
+2020-05-10 00:04:14 INFO  EmployeeRestAPI: 70 - statuscode is HTTP/1.1 200 OK
+2020-05-10 00:33:25 INFO  EmployeeRestAPI: 16 -  Started TC001_Get_All_Employees 
+2020-05-10 00:33:34 INFO  EmployeeRestAPI: 69 - ***Checking Server Type ****
+2020-05-10 00:33:34 INFO  EmployeeRestAPI: 71 - Content Time nginx/1.16.0
+2020-05-10 00:33:34 INFO  EmployeeRestAPI: 95 - ***Checking Content Length ****
+2020-05-10 00:33:34 INFO  EmployeeRestAPI: 97 - Response Time 595
+2020-05-10 00:33:34 INFO  EmployeeRestAPI: 26 - ***Checking response body****
+2020-05-10 00:33:34 INFO  EmployeeRestAPI: 29 - ***Response Body ****{"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+2020-05-10 00:33:34 INFO  EmployeeRestAPI: 56 - ***Checking Response Time ****
+2020-05-10 00:33:34 INFO  EmployeeRestAPI: 58 - Response Time 187
+2020-05-10 00:33:34 INFO  EmployeeRestAPI: 78 - ***Checking Contant  Type ****
+2020-05-10 00:33:34 INFO  EmployeeRestAPI: 80 - Server Time application/json;charset=utf-8
+2020-05-10 00:33:34 INFO  EmployeeRestAPI: 36 - ***Checking status code ****
+2020-05-10 00:33:34 INFO  EmployeeRestAPI: 39 - statuscode is 200
+2020-05-10 00:33:34 INFO  EmployeeRestAPI: 46 - ***Checking status code ****
+2020-05-10 00:33:34 INFO  EmployeeRestAPI: 49 - statuscode is HTTP/1.1 200 OK
+2020-05-10 00:33:34 INFO  EmployeeRestAPI: 87 - ***Checking Server Type ****
+2020-05-10 00:33:34 INFO  EmployeeRestAPI: 89 - Encoding Type is  gzip
+2020-05-10 00:33:34 INFO  EmployeeRestAPI: 108 - ***Checking Cookies ****
+2020-05-10 00:33:34 INFO  EmployeeRestAPI: 115 - ***Finishd  TC001_Get_All_Employees****
+2020-05-10 00:33:34 INFO  EmployeeRestAPI: 16 -  Started TC001_Get_All_Employees 
+2020-05-10 00:33:40 INFO  EmployeeRestAPI: 78 - ***Checking Content  Type ****
+2020-05-10 00:33:40 INFO  EmployeeRestAPI: 80 - Server Time application/json;charset=utf-8
+2020-05-10 00:33:40 INFO  EmployeeRestAPI: 26 - ***Checking response body****
+2020-05-10 00:33:40 INFO  EmployeeRestAPI: 29 - ***Response Body ****{"status":"failed","message":"Oops! someting issue found to fetch record."}
+2020-05-10 00:33:40 INFO  EmployeeRestAPI: 56 - ***Checking Response Time ****
+2020-05-10 00:33:40 INFO  EmployeeRestAPI: 58 - Response Time 523
+2020-05-10 00:33:40 INFO  EmployeeRestAPI: 69 - ***Checking Server Type ****
+2020-05-10 00:33:40 INFO  EmployeeRestAPI: 71 - Content Time nginx/1.16.0
+2020-05-10 00:33:40 INFO  EmployeeRestAPI: 36 - ***Checking status code ****
+2020-05-10 00:33:40 INFO  EmployeeRestAPI: 39 - statuscode is 400
+2020-05-10 00:33:40 INFO  EmployeeRestAPI: 46 - ***Checking status code ****
+2020-05-10 00:33:40 INFO  EmployeeRestAPI: 49 - statuscode is HTTP/1.1 400 Bad Request
+2020-05-10 00:33:40 INFO  EmployeeRestAPI: 87 - ***Checking Server Type ****
+2020-05-10 00:33:40 INFO  EmployeeRestAPI: 89 - Encoding Type is  null
+2020-05-10 00:33:40 INFO  EmployeeRestAPI: 95 - ***Checking Cookies ****
+2020-05-10 00:33:40 INFO  EmployeeRestAPI: 102 - ***Finishd  TC001_Get_All_Employees****
+2020-05-10 00:33:40 INFO  EmployeeRestAPI: 27 - *****Started TC003_Post_Employee_Record *****
+2020-05-10 00:33:47 INFO  EmployeeRestAPI: 80 - ***Checking Content Type ****
+2020-05-10 00:33:47 INFO  EmployeeRestAPI: 82 - Content Time application/json;charset=utf-8
+2020-05-10 00:33:47 INFO  EmployeeRestAPI: 89 - ***Checking Server Type ****
+2020-05-10 00:33:47 INFO  EmployeeRestAPI: 91 - Content Time nginx/1.16.0
+2020-05-10 00:33:47 INFO  EmployeeRestAPI: 61 - ***Checking status code ****
+2020-05-10 00:33:47 INFO  EmployeeRestAPI: 64 - statuscode is 200
+2020-05-10 00:33:47 INFO  EmployeeRestAPI: 70 - ***Checking status Line ****
+2020-05-10 00:33:47 INFO  EmployeeRestAPI: 73 - statuscode is HTTP/1.1 200 OK
+2020-05-10 00:33:47 INFO  EmployeeRestAPI: 98 - ***Finishd  TC001_Get_All_Employees****
+2020-05-10 00:33:47 INFO  EmployeeRestAPI: 27 - *****Started TC003_Post_Employee_Record *****
+2020-05-10 00:33:56 INFO  EmployeeRestAPI: 58 - ***Checking status code ****
+2020-05-10 00:33:56 INFO  EmployeeRestAPI: 61 - statuscode is 200
+2020-05-10 00:33:56 INFO  EmployeeRestAPI: 67 - ***Checking status code ****
+2020-05-10 00:33:56 INFO  EmployeeRestAPI: 70 - statuscode is HTTP/1.1 200 OK

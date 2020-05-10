@@ -59,72 +59,60 @@ public class TC001_Get_All_Employees extends TestBase {
 
 		if (responseTime > 2000) {
 			logger.warn("Response time is grater then 2000");
-			
-			Assert.assertTrue(responseTime<2000);
+
+			Assert.assertTrue(responseTime < 2000);
 		}
 	}
-	
+
 	@Test
 	public void checkContaintType() {
 		logger.info("***Checking Server Type ****");
-		String contentType=response.header("Server");
+		String contentType = response.header("Server");
 		logger.info("Content Time " + contentType);
 		Assert.assertEquals(contentType, "nginx/1.16.0");
-		
-		
+
 	}
+
 	@Test
 	public void checkServerType() {
 		logger.info("***Checking Contant  Type ****");
-		String serverType=response.header("Content-Type");
+		String serverType = response.header("Content-Type");
 		logger.info("Server Time " + serverType);
 		Assert.assertEquals(serverType, "application/json;charset=utf-8");
-		
-		
+
 	}
+
 	@Test
 	public void checkingEncoding() {
 		logger.info("***Checking Server Type ****");
-		String encodingType=response.header("Content-Encoding");
+		String encodingType = response.header("Content-Encoding");
 		logger.info("Encoding Type is  " + encodingType);
 		Assert.assertEquals(encodingType, "gzip");
 	}
+
 	@Test
 	public void checkContentLength() {
 		logger.info("***Checking Content Length ****");
-		String contentLength = response.header("Content-Length");			
+		String contentLength = response.header("Content-Length");
 		logger.info("Response Time " + contentLength);
 
 		if (Integer.parseInt(contentLength) > 2000) {
 			logger.warn("Response time is grater then 2000");
-			
+
 			Assert.assertTrue(Integer.parseInt(contentLength) > 2000);
 		}
 	}
+
 	@Test
 	public void getCookies() {
 		logger.info("***Checking Cookies ****");
-		String cookies=response.getCookie("PHPSESSID");
+		String cookies = response.getCookie("PHPSESSID");
 		System.out.println(cookies);
 	}
-	
+
 	@Test
 	public void tearDown() {
 		logger.info("***Finishd  TC001_Get_All_Employees****");
 	}
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-

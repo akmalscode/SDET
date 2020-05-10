@@ -25,7 +25,6 @@ public class T005_GET_JSON_RESPONSE {
 		String responBody = response.getBody().asString();
 		System.out.println("Response Body is : " + responBody);
 		
-		Assert.assertEquals(responBody.contains("Delhi"), true);
-		
+		Assert.assertEquals(responBody.contains("Delhi"), true);	
 	}
 }

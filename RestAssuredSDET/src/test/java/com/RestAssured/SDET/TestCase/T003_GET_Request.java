@@ -1,6 +1,6 @@
 package com.RestAssured.SDET.TestCase;
 
-import org.hamcrest.core.Is;
+
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
@@ -34,9 +34,7 @@ public class T003_GET_Request {
 		//contain encoding
 		String containEncodeing=response.header("Content-Encoding"); //contain type header
 		System.out.println("Contain Encoding Is :"+containEncodeing);
-		Assert.assertEquals(containEncodeing, "gzip");
-		
-		
+		Assert.assertEquals(containEncodeing, "gzip");	
 		
 	}		
 }

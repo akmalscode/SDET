@@ -21,17 +21,16 @@ public class T006_GET_ExtractValueofEachNode_JSON {
 		// response object
 		Response response = httpRequest.request(Method.GET, "/Delhi");
 
-		JsonPath jsonPath=response.jsonPath();
-		
+		JsonPath jsonPath = response.jsonPath();
+
 		System.out.println(jsonPath.get("City"));
 		System.out.println(jsonPath.get("Temperature"));
 		System.out.println(jsonPath.get("Humidity"));
 		System.out.println(jsonPath.get("WeatherDescription"));
 		System.out.println(jsonPath.get("WindSpeed"));
 		System.out.println(jsonPath.get("WindDirectionDegree"));
-		
+
 		Assert.assertEquals(jsonPath.get("WindDirectionDegree"), "340 Degree");
-		
-		
+
 	}
 }

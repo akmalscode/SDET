@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="RestAssureTestSuite">
+
+	<listeners>
+		<listener
+			class-name="com.RestAssured.SDET.ExtentReports.Listeners" />
+	</listeners>
+
+	<test name="RestAssureTestSuite">
+
+		<classes>
+			<class name="com.RestAssured.SDET.TestCase.T001_GET_Request" />
+
+			<class name="com.RestAssured.SDET.TestCase.T002_POST_Request" />
+
+			<class name="com.RestAssured.SDET.TestCase.T003_GET_Request" />
+
+			<class
+				name="com.RestAssured.SDET.TestCase.T004_GET_All_Headers" />
+			<class
+				name="com.RestAssured.SDET.TestCase.T005_GET_JSON_RESPONSE" />
+			<class
+				name="com.RestAssured.SDET.TestCase.T006_GET_ExtractValueofEachNode_JSON" />
+			<class
+				name="com.RestAssured.SDET.TestCase.T007_GET_Autherization" />
+			<class
+				name="com.RestAssured.SDET.TestCase.TC001_Get_All_Employees" />
+			<class
+				name="com.RestAssured.SDET.TestCase.TC002_Get_Single_Employee_Record" />
+			<class
+				name="com.RestAssured.SDET.TestCase.TC003_Post_Employee_Record" />
+			<class
+				name="com.RestAssured.SDET.TestCase.TC004_Put_Employee_Record" />
+			<class
+				name="com.RestAssured.SDET.TestCase.TC003_Post_Employee_Record" />
+
+		</classes>
+	</test>
+
+</suite>

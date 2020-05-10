@@ -1,0 +1,24 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="RestAssureTestSuite">
+
+	<!-- <listeners>
+		<listener class-name="com.RestAssured.SDET.ExtentReports" />
+	</listeners>
+ -->
+	<test name="RestAssureTestSuite">
+
+		<classes>
+			<class name="com.RestAssured.SDET.TestCase.T001_GET_Request" />
+
+			
+
+			<class name="com.RestAssured.SDET.TestCase.T003_GET_Request" />
+
+			
+
+		</classes>
+	</test>
+
+</suite>

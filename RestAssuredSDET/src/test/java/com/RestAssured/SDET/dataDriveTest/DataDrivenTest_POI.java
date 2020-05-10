@@ -1,4 +1,4 @@
-package dataDriveTest;
+package com.RestAssured.SDET.dataDriveTest;
 
 import java.io.IOException;
 

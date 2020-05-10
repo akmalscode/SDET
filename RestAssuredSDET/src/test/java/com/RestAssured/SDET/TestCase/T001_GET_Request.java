@@ -29,12 +29,7 @@ public class T001_GET_Request {
 		//status line
 		String statusLine=response.getStatusLine();
 		System.out.println("Status line :"+statusLine);
-		Assert.assertEquals(statusLine, "HTTP/1.1 200 OK");
-		
-		
-		
-		
-		
+		Assert.assertEquals(statusLine, "HTTP/1.1 200 OK");	
 		
 		
 	}

@@ -21,14 +21,12 @@ public class T007_GET_Autherization {
 		PreemptiveBasicAuthScheme authType=new PreemptiveBasicAuthScheme();
 		authType.setUserName("ToolsQA");
 		authType.setPassword("TestPassword");
-		
-	
+			
 		RestAssured.authentication=authType;
 		
 		// Request object
 		RequestSpecification httpRequest = RestAssured.given();
-		
-		
+				
 		//Response Object
 		Response response = httpRequest.request(Method.GET, "/");
 
@@ -44,8 +42,7 @@ public class T007_GET_Autherization {
 		// status line
 		String statusLine = response.getStatusLine();
 		System.out.println("Status line :" + statusLine);
-		
-		
+				
 		Assert.assertEquals(statusLine, "HTTP/1.1 200 OK");
 	}
 
