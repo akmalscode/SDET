@@ -69,7 +69,7 @@ public class Listeners extends TestListenerAdapter {
 	//////
 
 	public void onStart(ITestContext testContext) {
-		htmlReporter = new ExtentHtmlReporter(System.getProperty("user.dir") + "/Reports/myReport.html");
+		htmlReporter = new ExtentHtmlReporter(System.getProperty("user.dir") + "/reports/MyReport.html");
 
 		htmlReporter.config().setDocumentTitle("Automation Report"); // Tile of report
 		htmlReporter.config().setReportName("Rest API Testing Report"); // name of the report
@@ -94,7 +94,7 @@ public class Listeners extends TestListenerAdapter {
 	}
 
 	public void onTestFailure(ITestResult result) {
-		test = extent.createTest(result.getName()); // create new entry in th report
+		test = extent.createTest(result.getName()); // create new entry in the report
 		// to add name in extent report
 		test.log(Status.FAIL, "TEST CASE FAILED IS " + result.getName());
 		// to add error/exception in extent report
